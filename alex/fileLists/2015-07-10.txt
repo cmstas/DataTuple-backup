@@ -1,0 +1,3 @@
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_DoubleEG_RECO_PromptReco-v1/DoubleEG_RECO_PromptReco-v1_000_251_164_00000_864B8C99-A526-E511-8E3D-02163E0134CC.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_RECO_PromptReco-v1/JetHT_RECO_PromptReco-v1_000_251_168_00000_5C4B2BD1-CB26-E511-B9FB-02163E011DA4.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_RECO_PromptReco-v1/JetHT_RECO_PromptReco-v1_000_251_168_00000_C04779D7-CB26-E511-A87E-02163E011ACE.root
