@@ -34,3 +34,4 @@
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias6_MINIAOD_PromptReco-v1/ZeroBias6_MINIAOD_PromptReco-v1_000_251_027_00000_D88561D8-FB25-E511-94BB-02163E012180.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias6_MINIAOD_PromptReco-v1/ZeroBias6_MINIAOD_PromptReco-v1_000_251_143_00000_5240A4CB-C226-E511-96EE-02163E011A34.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias6_MINIAOD_PromptReco-v1/ZeroBias6_MINIAOD_PromptReco-v1_000_251_160_00000_5A9A7B19-A526-E511-AA8C-02163E012A7F.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_RECO_PromptReco-v1/JetHT_RECO_PromptReco-v1_000_251_168_00000_4C2099CC-CA26-E511-A739-02163E012BDE.root
