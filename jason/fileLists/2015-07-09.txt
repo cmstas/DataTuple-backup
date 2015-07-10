@@ -8,3 +8,5 @@
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_017_00000_00452871-CE25-E511-9333-02163E012283.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_015_00000_90E33098-CF25-E511-8963-02163E012496.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_018_00000_CC60652B-D625-E511-8B88-02163E013390.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_019_00000_726FD11A-DA25-E511-A664-02163E0140E1.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_003_00000_5C4211D1-B825-E511-AF70-02163E0133F0.root
