@@ -10,3 +10,12 @@
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_018_00000_CC60652B-D625-E511-8B88-02163E013390.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_019_00000_726FD11A-DA25-E511-A664-02163E0140E1.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_003_00000_5C4211D1-B825-E511-AF70-02163E0133F0.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_022_00000_D0C15B70-EA25-E511-8EB2-02163E011DAE.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics3_MINIAOD_PromptReco-v1/HLTPhysics3_MINIAOD_PromptReco-v1_000_251_023_00000_6C19FC7F-E725-E511-B46D-02163E013402.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_004_00000_52D47D27-BE25-E511-ABE9-02163E011D12.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_008_00000_9206FA75-C225-E511-9573-02163E013852.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_011_00000_8CC40183-C325-E511-871C-02163E0123FE.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_013_00000_B8325B7E-CA25-E511-9EE4-02163E01358B.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_018_00000_683A86D6-D525-E511-8BAC-02163E0143C0.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_019_00000_5A1C4AEA-D925-E511-8465-02163E011A61.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_HLTPhysics4_MINIAOD_PromptReco-v1/HLTPhysics4_MINIAOD_PromptReco-v1_000_251_023_00000_BE316F57-E725-E511-B889-02163E0137FC.root
