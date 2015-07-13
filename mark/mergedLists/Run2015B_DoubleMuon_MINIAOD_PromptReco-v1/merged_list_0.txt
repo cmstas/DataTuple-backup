@@ -2,3 +2,4 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_DoubleMuon_MINIAOD_PromptReco-v1/DoubleMuon_MINIAOD_PromptReco-v1_000_251_498_00000_20B6D9C3-FE28-E511-BD2D-02163E0117FF.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_DoubleMuon_MINIAOD_PromptReco-v1/DoubleMuon_MINIAOD_PromptReco-v1_000_251_497_00000_826586F3-FC28-E511-89EE-02163E01340A.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_DoubleMuon_MINIAOD_PromptReco-v1/DoubleMuon_MINIAOD_PromptReco-v1_000_251_499_00000_EA52602B-0929-E511-AB5B-02163E011955.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_DoubleMuon_MINIAOD_PromptReco-v1/DoubleMuon_MINIAOD_PromptReco-v1_000_251_522_00000_E817E288-5C29-E511-9EDC-02163E011A5A.root
