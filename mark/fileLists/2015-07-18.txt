@@ -90,3 +90,15 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias1_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias1_MINIAOD_PromptReco-v1_000_251_026_00000_3A960367-EF25-E511-86C5-02163E012426.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias1_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias1_MINIAOD_PromptReco-v1_000_251_143_00000_BC0C92E7-DC26-E511-BDDC-02163E01386E.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias1_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias1_MINIAOD_PromptReco-v1_000_251_160_00000_4EA3E52C-A826-E511-BDD5-02163E0118E7.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_DoubleMuon_MINIAOD_PromptReco-v1/V07-04-06/DoubleMuon_MINIAOD_PromptReco-v1_000_251_251_00000_0292F6F9-8A27-E511-9074-02163E012213.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_DoubleMuon_MINIAOD_PromptReco-v1/V07-04-06/DoubleMuon_MINIAOD_PromptReco-v1_000_251_498_00000_20B6D9C3-FE28-E511-BD2D-02163E0117FF.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_SingleMuon_MINIAOD_PromptReco-v1/V07-04-06/SingleMuon_MINIAOD_PromptReco-v1_000_251_521_00000_425B1189-6729-E511-AF38-02163E013728.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_SingleMuon_MINIAOD_PromptReco-v1/V07-04-06/SingleMuon_MINIAOD_PromptReco-v1_000_251_612_00000_7A0CE8FF-A72A-E511-B7DC-02163E011D1C.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias_MINIAOD_PromptReco-v1_000_251_025_00000_8854924F-F325-E511-84D2-02163E0133ED.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias_MINIAOD_PromptReco-v1_000_251_027_00000_CC1691CC-2F26-E511-AF7B-02163E01415E.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias_MINIAOD_PromptReco-v1_000_251_153_00000_907CE4D3-9626-E511-8315-02163E01439E.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias_MINIAOD_PromptReco-v1_000_251_162_00000_ACED712F-4827-E511-91BA-02163E0133B6.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias_MINIAOD_PromptReco-v1_000_251_328_00000_68D2C319-D427-E511-9C3E-02163E0133E3.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias_MINIAOD_PromptReco-v1_000_251_643_00000_B2AE49C2-CF2C-E511-ABF5-02163E01360E.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias_MINIAOD_PromptReco-v1_000_251_691_00000_98550A7F-352B-E511-8BA5-02163E011836.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015B_ZeroBias1_MINIAOD_PromptReco-v1/V07-04-06/ZeroBias1_MINIAOD_PromptReco-v1_000_251_498_00000_306B552A-1129-E511-B195-02163E01287D.root
