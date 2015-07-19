@@ -1,9 +1,4 @@
-n: 150235
-k: 1
-f: 1
-x: 1
-file: merged_list_4.txt
-n: 
+n: 256992
 k: 1
 f: 1
 x: 1
