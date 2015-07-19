@@ -118,3 +118,12 @@
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_643_00000_0AF95D60-992C-E511-8D36-02163E0146A4.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_721_00000_147DAE03-FF2B-E511-A67E-02163E01439E.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_721_00000_4E0B9018-FF2B-E511-AD67-02163E011DAE.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_DoubleEG_MINIAOD_PromptReco-v1/V07-04-06/DoubleEG_MINIAOD_PromptReco-v1_000_251_562_00000_44B38FF2-3D2A-E511-8BE9-02163E0127DF.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_DoubleEG_MINIAOD_PromptReco-v1/V07-04-06/DoubleEG_MINIAOD_PromptReco-v1_000_251_562_00000_44F8BDC0-382A-E511-8233-02163E01208E.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_DoubleEG_MINIAOD_PromptReco-v1/V07-04-06/DoubleEG_MINIAOD_PromptReco-v1_000_251_643_00000_62942F94-912C-E511-80E0-02163E01340A.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_168_00000_20CE9858-DB26-E511-8C25-02163E01386E.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_244_00000_8685520B-0528-E511-A9AE-02163E0142FD.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_252_00000_F8295A1B-AF27-E511-89C2-02163E014289.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_496_00000_8E50CE64-B22C-E511-B3BB-02163E011B6C.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-06/JetHT_MINIAOD_PromptReco-v1_000_251_562_00000_720AC5E7-9C2A-E511-9FB2-02163E0129A3.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_MuonEG_MINIAOD_PromptReco-v1/V07-04-06/MuonEG_MINIAOD_PromptReco-v1_000_251_562_00000_CC290271-B72A-E511-A56C-02163E0142FD.root
