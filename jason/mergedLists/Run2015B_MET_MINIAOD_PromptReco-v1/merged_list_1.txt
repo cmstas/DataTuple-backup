@@ -16,3 +16,4 @@
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_MET_MINIAOD_PromptReco-v1/V07-04-06/MET_MINIAOD_PromptReco-v1_000_251_642_00000_B209CE06-D62A-E511-8FCE-02163E014637.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_MET_MINIAOD_PromptReco-v1/V07-04-06/MET_MINIAOD_PromptReco-v1_000_251_781_00000_D857250B-A02C-E511-A43C-02163E0136E2.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_MET_MINIAOD_PromptReco-v1/V07-04-06/MET_MINIAOD_PromptReco-v1_000_251_561_00000_A84C9BBB-0C2A-E511-8A12-02163E013576.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_MET_MINIAOD_PromptReco-v1/V07-04-06/MET_MINIAOD_PromptReco-v1_000_251_162_00000_1E96352E-4327-E511-A85D-02163E01474A.root
