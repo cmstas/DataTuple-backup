@@ -1,0 +1,4 @@
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-06/ZeroBias_MINIAOD_17Jul2015-v1_30000_62048264-BB2E-E511-9667-0025905A6090.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-06/ZeroBias_MINIAOD_17Jul2015-v1_30000_663F34B6-B92E-E511-A6EA-002618FDA28E.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-06/ZeroBias_MINIAOD_17Jul2015-v1_30000_6A99DEE8-BA2E-E511-A2ED-0026189438B0.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-06/ZeroBias_MINIAOD_17Jul2015-v1_30000_8A7C62F1-B72E-E511-9EC0-002354EF3BCE.root
