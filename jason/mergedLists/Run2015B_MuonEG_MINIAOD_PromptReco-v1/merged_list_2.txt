@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_MuonEG_MINIAOD_PromptReco-v1/V07-04-07/MuonEG_MINIAOD_PromptReco-v1_000_251_252_00000_E09EA71E-9D27-E511-B478-02163E014558.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_MuonEG_MINIAOD_PromptReco-v1/V07-04-07/MuonEG_MINIAOD_PromptReco-v1_000_251_643_00000_6EE03EBE-BE2C-E511-9EE7-02163E0138B3.root
