@@ -369,3 +369,5 @@
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_SinglePhoton_MINIAOD_17Jul2015-v1/V07-04-07/SinglePhoton_MINIAOD_17Jul2015-v1_30000_7E24B0B7-C12E-E511-AB77-0026189438EA.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-07/ZeroBias_MINIAOD_17Jul2015-v1_30000_144154E4-BB2E-E511-BC2C-002618FDA28E.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-07/ZeroBias_MINIAOD_17Jul2015-v1_30000_20F905C7-B82E-E511-8823-0026189438F9.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_DoubleEG_MINIAOD_17Jul2015-v1/V07-04-07/DoubleEG_MINIAOD_17Jul2015-v1_40000_5E0C02A3-AD2E-E511-8C3F-003048FFD752.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-07/ZeroBias_MINIAOD_17Jul2015-v1_40000_449C1809-982E-E511-9260-0025905A48D0.root
