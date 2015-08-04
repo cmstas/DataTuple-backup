@@ -1,1 +1,2 @@
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_SinglePhoton_MINIAOD_17Jul2015-v1/V07-04-07/SinglePhoton_MINIAOD_17Jul2015-v1_30000_34DA98B8-C12E-E511-B09A-0025905A60EE.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015B_ZeroBias_MINIAOD_17Jul2015-v1/V07-04-07/ZeroBias_MINIAOD_17Jul2015-v1_30000_8C45C7A4-BB2E-E511-91FE-0025905A609A.root
