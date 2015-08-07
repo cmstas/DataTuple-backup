@@ -1,2 +1,1 @@
-/hadoop/cms/store/user/jgran/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-07/JetHT_MINIAOD_PromptReco-v1_000_251_252_00000_D231F61F-AF27-E511-97A9-02163E013432.root
-/hadoop/cms/store/user/jgran/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-07/JetHT_MINIAOD_PromptReco-v1_000_251_562_00000_8A33C3E4-9C2A-E511-95EC-02163E0123C0.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-07/JetHT_MINIAOD_PromptReco-v1_000_251_562_00000_C67C9591-8E2A-E511-9D3D-02163E014275.root
