@@ -3,3 +3,9 @@
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_251_638_00000_1C1DE091-012B-E511-9C18-02163E01457B.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_251_721_00000_5C4CDE16-FF2B-E511-86F8-02163E014275.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-08/ZeroBias_MINIAOD_PromptReco-v1_000_251_168_00000_40A8FB86-D226-E511-B1D7-02163E0133BB.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-08/ZeroBias_MINIAOD_PromptReco-v1_000_251_643_00000_FE82E4BB-CF2C-E511-8DBA-02163E012B2A.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_ZeroBias_MINIAOD_PromptReco-v1/V07-04-08/ZeroBias_MINIAOD_PromptReco-v1_000_251_718_00000_EADB625F-002C-E511-8FCE-02163E01399F.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_DoubleEG_MINIAOD_PromptReco-v1/V07-04-08/DoubleEG_MINIAOD_PromptReco-v1_000_251_252_00000_3866DC22-8627-E511-8700-02163E01463E.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_251_252_00000_583CFB34-AF27-E511-8639-02163E0135AC.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_251_252_00000_F8295A1B-AF27-E511-89C2-02163E014289.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_SingleElectron_MINIAOD_PromptReco-v1/V07-04-08/SingleElectron_MINIAOD_PromptReco-v1_000_251_562_00000_B41B8802-672A-E511-A9EA-02163E012787.root
