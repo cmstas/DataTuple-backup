@@ -1,2 +1,3 @@
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_DoubleEG_MINIAOD_PromptReco-v1/V07-04-08/DoubleEG_MINIAOD_PromptReco-v1_000_252_126_00000_DA16B12A-E930-E511-8AD3-02163E011A02.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015B_DoubleEG_MINIAOD_PromptReco-v1/V07-04-08/DoubleEG_MINIAOD_PromptReco-v1_000_251_252_00000_2672D59D-B827-E511-BB31-02163E01358B.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015B_DoubleEG_MINIAOD_PromptReco-v1/V07-04-08/DoubleEG_MINIAOD_PromptReco-v1_000_251_251_00000_E6F7FA3F-7E27-E511-B271-02163E014181.root
