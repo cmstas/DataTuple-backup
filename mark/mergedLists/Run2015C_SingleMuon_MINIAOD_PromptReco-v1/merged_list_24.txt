@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_SingleMuon_MINIAOD_PromptReco-v1/V07-04-08/SingleMuon_MINIAOD_PromptReco-v1_000_254_608_00000_969AF37B-F348-E511-93E8-02163E0145FA.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_SingleMuon_MINIAOD_PromptReco-v1/V07-04-08/SingleMuon_MINIAOD_PromptReco-v1_000_254_608_00000_BCC5E97F-F348-E511-85BF-02163E011E8B.root
