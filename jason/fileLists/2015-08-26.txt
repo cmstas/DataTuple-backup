@@ -2,3 +2,4 @@
 /hadoop/cms/store/user/jgran/dataTuple/Run2015C_SingleElectron_MINIAOD_PromptReco-v1/V07-04-08/SingleElectron_MINIAOD_PromptReco-v1_000_254_833_00000_027C5D36-524B-E511-B191-02163E014705.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015C_SingleElectron_MINIAOD_PromptReco-v1/V07-04-08/SingleElectron_MINIAOD_PromptReco-v1_000_254_608_00000_463B768E-1749-E511-8555-02163E011EA2.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015C_MET_MINIAOD_PromptReco-v1/V07-04-08/MET_MINIAOD_PromptReco-v1_000_254_852_00000_1039078E-944B-E511-BE9F-02163E011DE0.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015C_SingleElectron_MINIAOD_PromptReco-v1/V07-04-08/SingleElectron_MINIAOD_PromptReco-v1_000_254_833_00000_3A56A861-334B-E511-B711-02163E011D3C.root
