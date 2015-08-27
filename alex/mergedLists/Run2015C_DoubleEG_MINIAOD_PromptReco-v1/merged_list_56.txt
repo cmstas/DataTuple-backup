@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_DoubleEG_MINIAOD_PromptReco-v1/V07-04-08/DoubleEG_MINIAOD_PromptReco-v1_000_254_790_00000_F82645C6-3F4A-E511-9E60-02163E011CF7.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_DoubleEG_MINIAOD_PromptReco-v1/V07-04-08/DoubleEG_MINIAOD_PromptReco-v1_000_254_833_00000_0EFC4F55-FB4A-E511-BFDE-02163E0141FD.root
