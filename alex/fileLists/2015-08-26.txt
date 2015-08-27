@@ -83,3 +83,14 @@
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_MuonEG_MINIAOD_PromptReco-v1/V07-04-08/MuonEG_MINIAOD_PromptReco-v1_000_254_451_00000_884BB2C7-9346-E511-801F-02163E012790.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_MuonEG_MINIAOD_PromptReco-v1/V07-04-08/MuonEG_MINIAOD_PromptReco-v1_000_254_456_00000_FA2E117B-9546-E511-94F8-02163E011A88.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_MuonEG_MINIAOD_PromptReco-v1/V07-04-08/MuonEG_MINIAOD_PromptReco-v1_000_254_852_00000_509352C1-944B-E511-BEF5-02163E0146E1.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_HTMHT_MINIAOD_PromptReco-v1/V07-04-08/HTMHT_MINIAOD_PromptReco-v1_000_254_602_00000_DE6A37B9-A647-E511-A2D8-02163E0127B5.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_HTMHT_MINIAOD_PromptReco-v1/V07-04-08/HTMHT_MINIAOD_PromptReco-v1_000_254_824_00000_886A1D76-574A-E511-A663-02163E0136B9.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_253_890_00000_BE9881D7-2741-E511-B9E9-02163E015539.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_253_944_00000_E020E2B8-5941-E511-9975-02163E013414.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_254_096_00000_86B9F7D7-6445-E511-B0BA-02163E012AAF.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_254_315_00000_C81A7AD3-8445-E511-A257-02163E014328.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_JetHT_MINIAOD_PromptReco-v1/V07-04-08/JetHT_MINIAOD_PromptReco-v1_000_254_511_00000_6046F4D2-D246-E511-B8C5-02163E0121F3.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_MuonEG_MINIAOD_PromptReco-v1/V07-04-08/MuonEG_MINIAOD_PromptReco-v1_000_254_293_00000_74466B3D-F745-E511-8F07-02163E014430.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_MuonEG_MINIAOD_PromptReco-v1/V07-04-08/MuonEG_MINIAOD_PromptReco-v1_000_254_319_00000_343387F3-3146-E511-A4CF-02163E011827.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_MuonEG_MINIAOD_PromptReco-v1/V07-04-08/MuonEG_MINIAOD_PromptReco-v1_000_254_349_00000_9875A449-8C45-E511-979A-02163E01289F.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015C_MuonEG_MINIAOD_PromptReco-v1/V07-04-08/MuonEG_MINIAOD_PromptReco-v1_000_254_879_00000_981D967B-A14B-E511-92BD-02163E014108.root
