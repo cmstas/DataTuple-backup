@@ -1,2 +1,1 @@
-/hadoop/cms/store/user/cgeorge/dataTuple/Run2015D_HTMHT_MINIAOD_PromptReco-v3/V07-04-09/HTMHT_MINIAOD_PromptReco-v3_000_257_822_00000_BE70FE35-4269-E511-85B6-02163E012490.root
 /hadoop/cms/store/user/cgeorge/dataTuple/Run2015D_MuonEG_MINIAOD_PromptReco-v3/V07-04-09/MuonEG_MINIAOD_PromptReco-v3_000_257_822_00000_7A2932AB-0B69-E511-8913-02163E01439C.root
