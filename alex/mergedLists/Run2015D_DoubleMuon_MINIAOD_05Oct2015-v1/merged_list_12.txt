@@ -1,0 +1,4 @@
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015D_DoubleMuon_MINIAOD_05Oct2015-v1/V07-04-11/DoubleMuon_MINIAOD_05Oct2015-v1_30000_7ADCD583-8F6F-E511-A3A5-00261894391B.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015D_DoubleMuon_MINIAOD_05Oct2015-v1/V07-04-11/DoubleMuon_MINIAOD_05Oct2015-v1_30000_7C420F88-8F6F-E511-B130-002618943910.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015D_DoubleMuon_MINIAOD_05Oct2015-v1/V07-04-11/DoubleMuon_MINIAOD_05Oct2015-v1_30000_867C9038-8D6F-E511-92DA-0025905A6090.root
+/hadoop/cms/store/user/cgeorge/dataTuple/Run2015D_DoubleMuon_MINIAOD_05Oct2015-v1/V07-04-11/DoubleMuon_MINIAOD_05Oct2015-v1_30000_8C6A3CF5-8A6F-E511-97E9-0025905A6110.root
