@@ -2,3 +2,4 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_HTMHT_MINIAOD_05Oct2015-v1/V07-04-11/HTMHT_MINIAOD_05Oct2015-v1_60000_C0A300ED-F873-E511-B438-0025905B85A2.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_DoubleMuon_MINIAOD_05Oct2015-v1/V07-04-11/DoubleMuon_MINIAOD_05Oct2015-v1_50000_2A7D15F1-7874-E511-B57D-0025905A48C0.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_DoubleMuon_MINIAOD_05Oct2015-v1/V07-04-11/DoubleMuon_MINIAOD_05Oct2015-v1_50000_3C8FDAC6-AA74-E511-9A5D-0025905B859E.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_JetHT_MINIAOD_05Oct2015-v1/V07-04-11/JetHT_MINIAOD_05Oct2015-v1_60000_C26C8E46-7374-E511-8381-0025905A608C.root
