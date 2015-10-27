@@ -57,3 +57,14 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_JetHT_MINIAOD_05Oct2015-v1/V07-04-11/JetHT_MINIAOD_05Oct2015-v1_80000_F0E3E941-7274-E511-9C03-0025905B858C.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_MET_MINIAOD_05Oct2015-v1/V07-04-11/MET_MINIAOD_05Oct2015-v1_30000_78337277-FB73-E511-A688-0025905A60F4.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleMuon_MINIAOD_05Oct2015-v1/V07-04-11/SingleMuon_MINIAOD_05Oct2015-v1_50000_2CCAF4E6-1374-E511-8625-0025905A6132.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_JetHT_MINIAOD_05Oct2015-v1/V07-04-11/JetHT_MINIAOD_05Oct2015-v1_80000_44C83043-7474-E511-BF93-002618943807.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleElectron_MINIAOD_05Oct2015-v1/V07-04-11/SingleElectron_MINIAOD_05Oct2015-v1_30000_CCB9E8A4-C774-E511-8B2C-002618943983.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleElectron_MINIAOD_05Oct2015-v1/V07-04-11/SingleElectron_MINIAOD_05Oct2015-v1_50000_20F95D7F-3574-E511-B94D-0025905A60EE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleElectron_MINIAOD_05Oct2015-v1/V07-04-11/SingleElectron_MINIAOD_05Oct2015-v1_50000_8EB73779-3574-E511-86E9-0025905A605E.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_DoubleEG_MINIAOD_05Oct2015-v1/V07-04-11/DoubleEG_MINIAOD_05Oct2015-v1_40000_DEFC312B-4974-E511-8597-0026189438E1.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_HTMHT_MINIAOD_05Oct2015-v1/V07-04-11/HTMHT_MINIAOD_05Oct2015-v1_60000_DC2076ED-F873-E511-B625-0025905A60C6.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleMuon_MINIAOD_05Oct2015-v1/V07-04-11/SingleMuon_MINIAOD_05Oct2015-v1_50000_CA9F53E8-1274-E511-BD78-0025905A60DE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleMuon_MINIAOD_05Oct2015-v1/V07-04-11/SingleMuon_MINIAOD_05Oct2015-v1_50000_E0BE4FCF-1374-E511-BA5A-0026189438BF.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_DoubleMuon_MINIAOD_05Oct2015-v1/V07-04-11/DoubleMuon_MINIAOD_05Oct2015-v1_50000_AC9E2C97-6874-E511-B08C-0025905A60A8.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleMuon_MINIAOD_05Oct2015-v1/V07-04-11/SingleMuon_MINIAOD_05Oct2015-v1_50000_6CD3B8E9-1274-E511-8011-0025905B85AA.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2015C_25ns_SingleMuon_MINIAOD_05Oct2015-v1/V07-04-11/SingleMuon_MINIAOD_05Oct2015-v1_50000_981673ED-1274-E511-ADFF-0025905964C2.root
