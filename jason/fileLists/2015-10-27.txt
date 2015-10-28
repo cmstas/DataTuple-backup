@@ -459,3 +459,6 @@
 /hadoop/cms/store/user/jgran/dataTuple/Run2015D_SingleMuon_MINIAOD_PromptReco-v4/V07-04-11/SingleMuon_MINIAOD_PromptReco-v4_000_259_686_00000_205CDA24-047B-E511-B072-02163E014712.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015D_DoubleEG_MINIAOD_PromptReco-v4/V07-04-11/DoubleEG_MINIAOD_PromptReco-v4_000_259_626_00000_902D102B-C37A-E511-849E-02163E014509.root
 /hadoop/cms/store/user/jgran/dataTuple/Run2015D_DoubleEG_MINIAOD_PromptReco-v4/V07-04-11/DoubleEG_MINIAOD_PromptReco-v4_000_259_685_00000_CCB3F875-187B-E511-84C9-02163E0141E6.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015D_DoubleMuon_MINIAOD_PromptReco-v4/V07-04-11/DoubleMuon_MINIAOD_PromptReco-v4_000_259_683_00000_7C1720C1-247A-E511-8467-02163E0145FF.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015D_SingleElectron_MINIAOD_PromptReco-v4/V07-04-11/SingleElectron_MINIAOD_PromptReco-v4_000_259_890_00000_FEEBCFDF-437C-E511-BFB5-02163E0142EB.root
+/hadoop/cms/store/user/jgran/dataTuple/Run2015D_SinglePhoton_MINIAOD_PromptReco-v4/V07-04-11/SinglePhoton_MINIAOD_PromptReco-v4_000_259_862_00000_B6BDD00B-DE7B-E511-8DEA-02163E01417F.root
