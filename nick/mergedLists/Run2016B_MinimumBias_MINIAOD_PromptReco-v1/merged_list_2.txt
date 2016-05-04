@@ -6,3 +6,6 @@
 /hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_272_133_00000_A4A095A7-F810-E611-A748-02163E014231.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_272_138_00000_440176FE-5111-E611-9AD2-02163E0142C5.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_272_150_00000_0CEB616B-D311-E611-821F-02163E0126AA.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_271_953_00000_78763C61-F00E-E611-A581-02163E0138D8.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_271_967_00000_2431DA37-F70E-E611-ABDB-02163E014411.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_272_011_00000_CACC9C08-1210-E611-A8C4-02163E01347C.root

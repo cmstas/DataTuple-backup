@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_272_014_00000_B0D172FE-B50F-E611-BAA5-02163E013508.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_MinimumBias_MINIAOD_PromptReco-v1/V08-00-04/MinimumBias_MINIAOD_PromptReco-v1_000_272_021_00000_08687888-C40F-E611-98E6-02163E011FF5.root
