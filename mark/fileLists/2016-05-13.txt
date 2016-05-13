@@ -5,3 +5,12 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_PromptReco-v1/V08-00-04/MuonEG_MINIAOD_PromptReco-v1_000_272_827_00000_12BFDFC0-B018-E611-8ADB-02163E011A83.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_PromptReco-v1/V08-00-04/MuonEG_MINIAOD_PromptReco-v1_000_272_828_00000_ACAE8B24-B318-E611-8BDA-02163E013906.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_PromptReco-v1/V08-00-04/MuonEG_MINIAOD_PromptReco-v1_000_272_829_00000_3A6E9DCE-B318-E611-8D8C-02163E0146A6.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_PromptReco-v1/V08-00-04/MuonEG_MINIAOD_PromptReco-v1_000_272_930_00000_36C8A0EF-B618-E611-AC0B-02163E01216A.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_PromptReco-v1/V08-00-04/MuonEG_MINIAOD_PromptReco-v1_000_272_935_00000_56FB7136-BF18-E611-A47C-02163E0143F4.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_PromptReco-v1/V08-00-04/SingleElectron_MINIAOD_PromptReco-v1_000_272_791_00000_6E64BB63-5F17-E611-8DD0-02163E011BDE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_PromptReco-v1/V08-00-04/SingleElectron_MINIAOD_PromptReco-v1_000_272_807_00000_5851B13D-3F18-E611-ADEB-02163E0133BE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_PromptReco-v1/V08-00-04/SingleElectron_MINIAOD_PromptReco-v1_000_272_809_00000_340CD0E9-4118-E611-A7E7-02163E014481.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_PromptReco-v1/V08-00-04/SingleElectron_MINIAOD_PromptReco-v1_000_272_811_00000_E8786C60-4A18-E611-B056-02163E0145B3.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_PromptReco-v1/V08-00-04/SingleElectron_MINIAOD_PromptReco-v1_000_272_815_00000_6C1F09B5-7E18-E611-9961-02163E0143EB.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_PromptReco-v1/V08-00-04/MuonEG_MINIAOD_PromptReco-v1_000_272_818_00000_D6DDC501-8418-E611-8657-02163E011BDE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_PromptReco-v1/V08-00-04/MuonEG_MINIAOD_PromptReco-v1_000_272_936_00000_74A1A76C-E918-E611-81B5-02163E014796.root
