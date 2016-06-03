@@ -1,0 +1,5 @@
+n: 191508
+k: 1
+f: 1
+x: 1
+file: merged_list_264.txt
