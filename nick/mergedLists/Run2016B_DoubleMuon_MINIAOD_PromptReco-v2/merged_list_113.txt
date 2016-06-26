@@ -1,2 +1,5 @@
-/hadoop/cms/store/user/namin/dataTuple/Run2016B_DoubleMuon_MINIAOD_PromptReco-v2/V08-00-04/DoubleMuon_MINIAOD_PromptReco-v2_000_274_161_00000_F8F857B2-0927-E611-953E-02163E012642.root
-/hadoop/cms/store/user/namin/dataTuple/Run2016B_DoubleMuon_MINIAOD_PromptReco-v2/V08-00-04/DoubleMuon_MINIAOD_PromptReco-v2_000_274_172_00000_D81025E1-1027-E611-A073-02163E013722.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_DoubleMuon_MINIAOD_PromptReco-v2/V08-00-06/DoubleMuon_MINIAOD_PromptReco-v2_000_274_286_00000_72228ADB-8529-E611-99C2-02163E014405.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_DoubleMuon_MINIAOD_PromptReco-v2/V08-00-06/DoubleMuon_MINIAOD_PromptReco-v2_000_274_303_00000_7E82EDE2-9A29-E611-9C64-02163E011CDA.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_DoubleMuon_MINIAOD_PromptReco-v2/V08-00-06/DoubleMuon_MINIAOD_PromptReco-v2_000_274_314_00000_B8F3CC71-C229-E611-B721-02163E011C90.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_DoubleMuon_MINIAOD_PromptReco-v2/V08-00-06/DoubleMuon_MINIAOD_PromptReco-v2_000_274_315_00000_2680A8D6-EB29-E611-8EBA-02163E014736.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016B_DoubleMuon_MINIAOD_PromptReco-v2/V08-00-06/DoubleMuon_MINIAOD_PromptReco-v2_000_274_315_00000_A287989F-E129-E611-B5FB-02163E0142C2.root
