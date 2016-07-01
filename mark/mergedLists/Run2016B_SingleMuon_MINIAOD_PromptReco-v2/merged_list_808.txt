@@ -1,2 +1,2 @@
-/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleMuon_MINIAOD_PromptReco-v2/V08-00-04/SingleMuon_MINIAOD_PromptReco-v2_000_275_376_00000_96404131-E039-E611-8A4C-02163E01439B.root
-/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleMuon_MINIAOD_PromptReco-v2/V08-00-04/SingleMuon_MINIAOD_PromptReco-v2_000_275_376_00000_9C8DC63A-E039-E611-B765-02163E01439F.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleMuon_MINIAOD_PromptReco-v2/V08-00-06/SingleMuon_MINIAOD_PromptReco-v2_000_275_292_00000_F2A8C705-5037-E611-9B66-02163E01367A.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleMuon_MINIAOD_PromptReco-v2/V08-00-06/SingleMuon_MINIAOD_PromptReco-v2_000_275_309_00000_30270DC3-6D37-E611-B367-02163E0143BD.root
