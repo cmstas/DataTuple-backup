@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/namin/dataTuple/Run2016D_SingleMuon_MINIAOD_PromptReco-v2/V08-00-08/SingleMuon_MINIAOD_PromptReco-v2_000_276_384_00000_C86A38B2-FE46-E611-95A0-02163E011A5A.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016D_SingleMuon_MINIAOD_PromptReco-v2/V08-00-08/SingleMuon_MINIAOD_PromptReco-v2_000_276_384_00000_DC236ABA-FC46-E611-856C-02163E0136E1.root
