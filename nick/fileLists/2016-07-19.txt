@@ -26,3 +26,4 @@
 /hadoop/cms/store/user/namin/dataTuple/Run2016D_DoubleEG_MINIAOD_PromptReco-v2/V08-00-08/DoubleEG_MINIAOD_PromptReco-v2_000_276_808_00000_4480FDCB-014C-E611-847E-FA163E53DB8C.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016D_MET_MINIAOD_PromptReco-v2/V08-00-08/MET_MINIAOD_PromptReco-v2_000_276_808_00000_0C13B74C-944C-E611-A835-02163E01344E.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016D_HTMHT_MINIAOD_PromptReco-v2/V08-00-08/HTMHT_MINIAOD_PromptReco-v2_000_276_811_00000_849BF662-9D4C-E611-A05C-02163E012598.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016D_JetHT_MINIAOD_PromptReco-v2/V08-00-08/JetHT_MINIAOD_PromptReco-v2_000_276_811_00000_566D6C5E-A14C-E611-85B3-FA163EF8A5A7.root
