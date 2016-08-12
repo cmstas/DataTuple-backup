@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_MuonEG_MINIAOD_PromptReco-v2/V08-00-10/MuonEG_MINIAOD_PromptReco-v2_000_277_220_00000_36BF7DD3-C853-E611-9752-02163E01419F.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_MuonEG_MINIAOD_PromptReco-v2/V08-00-10/MuonEG_MINIAOD_PromptReco-v2_000_277_305_00000_68EC1BF0-EA53-E611-9FBF-02163E01215D.root

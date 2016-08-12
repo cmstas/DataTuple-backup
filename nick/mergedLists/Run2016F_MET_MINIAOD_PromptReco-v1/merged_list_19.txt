@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_MET_MINIAOD_PromptReco-v1/V08-00-11/MET_MINIAOD_PromptReco-v1_000_278_366_00000_C4B00E16-A15F-E611-9D6C-02163E01438C.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_MET_MINIAOD_PromptReco-v1/V08-00-11/MET_MINIAOD_PromptReco-v1_000_278_406_00000_1832ADF7-D75F-E611-9E1E-FA163EA1AD28.root
