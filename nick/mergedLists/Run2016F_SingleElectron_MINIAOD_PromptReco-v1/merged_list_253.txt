@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_SingleElectron_MINIAOD_PromptReco-v1/V08-00-11/SingleElectron_MINIAOD_PromptReco-v1_000_278_310_00000_FE4DB689-DC5E-E611-AA64-02163E0138B7.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_SingleElectron_MINIAOD_PromptReco-v1/V08-00-11/SingleElectron_MINIAOD_PromptReco-v1_000_278_315_00000_0EB0DD16-1F5F-E611-8CF1-02163E01361E.root

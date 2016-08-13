@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-11/SinglePhoton_MINIAOD_PromptReco-v1_000_278_167_00000_908FE04D-C85B-E611-8D77-FA163EA1AD28.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-11/SinglePhoton_MINIAOD_PromptReco-v1_000_278_167_00000_9C4C95B3-D55B-E611-8466-02163E0137DB.root

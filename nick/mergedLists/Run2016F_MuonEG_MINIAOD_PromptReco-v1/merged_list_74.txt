@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_MuonEG_MINIAOD_PromptReco-v1/V08-00-11/MuonEG_MINIAOD_PromptReco-v1_000_278_240_00000_7A4CF20D-B85C-E611-8AEC-02163E0138F0.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_MuonEG_MINIAOD_PromptReco-v1/V08-00-11/MuonEG_MINIAOD_PromptReco-v1_000_278_240_00000_C48B97A3-C15C-E611-8CE1-FA163EB05499.root
