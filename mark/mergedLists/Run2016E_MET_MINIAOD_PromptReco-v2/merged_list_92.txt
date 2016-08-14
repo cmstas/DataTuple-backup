@@ -1,0 +1,3 @@
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_MET_MINIAOD_PromptReco-v2/V08-00-10/MET_MINIAOD_PromptReco-v2_000_277_202_00000_48FC447A-A753-E611-A0B3-FA163E6ED13D.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_MET_MINIAOD_PromptReco-v2/V08-00-10/MET_MINIAOD_PromptReco-v2_000_277_216_00000_C42FF52D-6253-E611-AD30-FA163E25241A.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_MET_MINIAOD_PromptReco-v2/V08-00-10/MET_MINIAOD_PromptReco-v2_000_277_219_00000_76CF67BE-CB53-E611-8E94-FA163E1B4F25.root
