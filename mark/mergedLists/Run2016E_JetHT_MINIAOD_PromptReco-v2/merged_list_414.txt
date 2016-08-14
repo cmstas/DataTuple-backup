@@ -1,0 +1,3 @@
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_JetHT_MINIAOD_PromptReco-v2/V08-00-10/JetHT_MINIAOD_PromptReco-v2_000_276_834_00000_E05C525D-974D-E611-9FAD-02163E0136FE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_JetHT_MINIAOD_PromptReco-v2/V08-00-10/JetHT_MINIAOD_PromptReco-v2_000_276_870_00000_00797FCB-E74D-E611-9D8E-02163E0142AF.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_JetHT_MINIAOD_PromptReco-v2/V08-00-10/JetHT_MINIAOD_PromptReco-v2_000_276_870_00000_065E9360-B34D-E611-B510-02163E0135DA.root

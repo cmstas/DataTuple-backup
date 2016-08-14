@@ -1,0 +1,4 @@
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_HTMHT_MINIAOD_PromptReco-v2/V08-00-10/HTMHT_MINIAOD_PromptReco-v2_000_277_194_00000_9A2A83F6-6753-E611-8F6F-FA163E53CB7B.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_HTMHT_MINIAOD_PromptReco-v2/V08-00-10/HTMHT_MINIAOD_PromptReco-v2_000_277_216_00000_08E0FF76-6053-E611-B391-02163E0134F3.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_HTMHT_MINIAOD_PromptReco-v2/V08-00-10/HTMHT_MINIAOD_PromptReco-v2_000_277_219_00000_A8E30972-BC53-E611-91AA-02163E0139D3.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_HTMHT_MINIAOD_PromptReco-v2/V08-00-10/HTMHT_MINIAOD_PromptReco-v2_000_277_220_00000_2CD5543F-C053-E611-AA67-FA163ED4FB1B.root
