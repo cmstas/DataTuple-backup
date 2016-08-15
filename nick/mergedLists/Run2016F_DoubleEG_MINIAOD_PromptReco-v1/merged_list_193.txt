@@ -1,3 +1,4 @@
 /hadoop/cms/store/user/namin/dataTuple/Run2016F_DoubleEG_MINIAOD_PromptReco-v1/V08-00-11/DoubleEG_MINIAOD_PromptReco-v1_000_278_769_00000_A2A284A6-CC62-E611-9E86-FA163E63F304.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016F_DoubleEG_MINIAOD_PromptReco-v1/V08-00-11/DoubleEG_MINIAOD_PromptReco-v1_000_278_806_00000_22F3DE84-1863-E611-8867-02163E0142BD.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016F_DoubleEG_MINIAOD_PromptReco-v1/V08-00-11/DoubleEG_MINIAOD_PromptReco-v1_000_278_807_00000_EA1E2B35-1963-E611-95CD-02163E012406.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_DoubleEG_MINIAOD_PromptReco-v1/V08-00-11/DoubleEG_MINIAOD_PromptReco-v1_000_278_800_00000_7CC2BE36-EF62-E611-97C8-02163E013834.root
