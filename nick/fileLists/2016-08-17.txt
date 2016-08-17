@@ -144,3 +144,4 @@
 /hadoop/cms/store/user/namin/dataTuple/Run2016F_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-11/SinglePhoton_MINIAOD_PromptReco-v1_000_278_808_00000_147683C7-C063-E611-843C-02163E014467.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016F_SingleElectron_MINIAOD_PromptReco-v1/V08-00-11/SingleElectron_MINIAOD_PromptReco-v1_000_278_808_00000_467903CC-C063-E611-BCD3-FA163E0851A2.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016F_SingleElectron_MINIAOD_PromptReco-v1/V08-00-11/SingleElectron_MINIAOD_PromptReco-v1_000_278_808_00000_7EE05E40-CA63-E611-93A6-FA163E5C4E92.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016F_JetHT_MINIAOD_PromptReco-v1/V08-00-11/JetHT_MINIAOD_PromptReco-v1_000_278_808_00000_360B7727-9363-E611-AA98-02163E01345E.root
