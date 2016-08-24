@@ -269,3 +269,11 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SingleElectron_MINIAOD_PromptReco-v1/V08-00-12/SingleElectron_MINIAOD_PromptReco-v1_000_279_116_00000_327E9179-0C69-E611-9E49-FA163EF0A849.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SingleMuon_MINIAOD_PromptReco-v1/V08-00-12/SingleMuon_MINIAOD_PromptReco-v1_000_279_115_00000_A44700C0-F368-E611-BC03-FA163E70AE0A.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-12/SinglePhoton_MINIAOD_PromptReco-v1_000_279_115_00000_407AD0AF-FB68-E611-9F43-02163E01373F.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_MuonEG_MINIAOD_PromptReco-v1/V08-00-12/MuonEG_MINIAOD_PromptReco-v1_000_279_071_00000_72E93DFC-0568-E611-AF6E-02163E0138F9.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_MuonEG_MINIAOD_PromptReco-v1/V08-00-12/MuonEG_MINIAOD_PromptReco-v1_000_279_115_00000_B41EDB1A-FF68-E611-ACEB-FA163E8CCDC0.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SingleElectron_MINIAOD_PromptReco-v1/V08-00-12/SingleElectron_MINIAOD_PromptReco-v1_000_278_969_00000_10D30EC9-8766-E611-B9D5-02163E0120A4.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SingleMuon_MINIAOD_PromptReco-v1/V08-00-12/SingleMuon_MINIAOD_PromptReco-v1_000_278_875_00000_C2EDEFB4-3565-E611-9834-02163E012756.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SingleMuon_MINIAOD_PromptReco-v1/V08-00-12/SingleMuon_MINIAOD_PromptReco-v1_000_279_116_00000_54F6A604-0E69-E611-8140-FA163E30E307.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-12/SinglePhoton_MINIAOD_PromptReco-v1_000_279_116_00000_DE8454C5-3669-E611-9263-02163E011A26.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_MuonEG_MINIAOD_PromptReco-v1/V08-00-12/MuonEG_MINIAOD_PromptReco-v1_000_278_969_00000_402633B7-9266-E611-94B5-FA163EFD57C9.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SingleMuon_MINIAOD_PromptReco-v1/V08-00-12/SingleMuon_MINIAOD_PromptReco-v1_000_278_822_00000_142482DF-AA64-E611-BFE1-FA163E34D2F6.root
