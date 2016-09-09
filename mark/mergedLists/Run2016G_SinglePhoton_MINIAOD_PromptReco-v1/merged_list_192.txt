@@ -1,2 +1,3 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-12/SinglePhoton_MINIAOD_PromptReco-v1_000_280_194_00000_5600CBB9-1B76-E611-A407-FA163ECCE15C.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-12/SinglePhoton_MINIAOD_PromptReco-v1_000_280_239_00000_52DAA752-2F76-E611-9034-FA163E7A6AB2.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SinglePhoton_MINIAOD_PromptReco-v1/V08-00-12/SinglePhoton_MINIAOD_PromptReco-v1_000_280_188_00000_5C391507-C375-E611-B35D-FA163E39F695.root
