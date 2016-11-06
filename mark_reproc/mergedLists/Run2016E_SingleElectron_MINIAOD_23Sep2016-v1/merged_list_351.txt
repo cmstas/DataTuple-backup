@@ -1,0 +1,5 @@
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_SingleElectron_MINIAOD_23Sep2016-v1/V08-00-14/SingleElectron_MINIAOD_23Sep2016-v1_80000_DA58216E-D48F-E611-8735-0CC47A7C3604.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_SingleElectron_MINIAOD_23Sep2016-v1/V08-00-14/SingleElectron_MINIAOD_23Sep2016-v1_90000_746C5A0C-2D8F-E611-B118-0242AC130004.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_SingleElectron_MINIAOD_23Sep2016-v1/V08-00-14/SingleElectron_MINIAOD_23Sep2016-v1_90000_E63C820B-2D8F-E611-96A7-00259055C942.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_SingleElectron_MINIAOD_23Sep2016-v1/V08-00-14/SingleElectron_MINIAOD_23Sep2016-v1_100000_2E56A837-2D8B-E611-BA5F-0CC47A7C3458.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016E_SingleElectron_MINIAOD_23Sep2016-v1/V08-00-14/SingleElectron_MINIAOD_23Sep2016-v1_100000_6468A743-618B-E611-A31F-0CC47A7C3604.root
