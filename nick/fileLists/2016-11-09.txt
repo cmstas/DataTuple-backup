@@ -5,3 +5,12 @@
 /hadoop/cms/store/user/namin/dataTuple/Run2016H_JetHT_MINIAOD_PromptReco-v3/V08-00-15/JetHT_MINIAOD_PromptReco-v3_000_284_043_00000_9E271C42-D19F-E611-B354-02163E012840.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016H_JetHT_MINIAOD_PromptReco-v3/V08-00-15/JetHT_MINIAOD_PromptReco-v3_000_284_068_00000_141C2E60-D79F-E611-8B5D-02163E011E5F.root
 /hadoop/cms/store/user/namin/dataTuple/Run2016H_MET_MINIAOD_PromptReco-v3/V08-00-15/MET_MINIAOD_PromptReco-v3_000_284_044_00000_86F763C5-B79F-E611-AF64-FA163E3B4409.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_DoubleMuon_MINIAOD_PromptReco-v3/V08-00-15/DoubleMuon_MINIAOD_PromptReco-v3_000_284_042_00000_2AF0C35E-9F9F-E611-AFC8-02163E0137C3.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_DoubleMuon_MINIAOD_PromptReco-v3/V08-00-15/DoubleMuon_MINIAOD_PromptReco-v3_000_284_068_00000_08D18E09-6B9F-E611-ABE6-02163E0144F3.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_HTMHT_MINIAOD_PromptReco-v3/V08-00-15/HTMHT_MINIAOD_PromptReco-v3_000_284_040_00000_6C0B2C30-9F9F-E611-AF8E-02163E0145B7.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_HTMHT_MINIAOD_PromptReco-v3/V08-00-15/HTMHT_MINIAOD_PromptReco-v3_000_284_043_00000_8E546048-BA9F-E611-830D-FA163E8481D3.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_HTMHT_MINIAOD_PromptReco-v3/V08-00-15/HTMHT_MINIAOD_PromptReco-v3_000_284_044_00000_508927A7-B19F-E611-9E4B-02163E01413D.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_JetHT_MINIAOD_PromptReco-v3/V08-00-15/JetHT_MINIAOD_PromptReco-v3_000_284_037_00000_AE33E170-719F-E611-8346-02163E0146C8.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_JetHT_MINIAOD_PromptReco-v3/V08-00-15/JetHT_MINIAOD_PromptReco-v3_000_284_040_00000_3A9B0397-8F9F-E611-AF44-02163E0146F9.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_MET_MINIAOD_PromptReco-v3/V08-00-15/MET_MINIAOD_PromptReco-v3_000_284_037_00000_50BD2838-649F-E611-9D41-FA163E9EEF8B.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_MET_MINIAOD_PromptReco-v3/V08-00-15/MET_MINIAOD_PromptReco-v3_000_284_040_00000_6CE4B73A-AD9F-E611-BC93-FA163EA1DE64.root
