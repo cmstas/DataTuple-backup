@@ -24,3 +24,11 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SingleElectron_MINIAOD_PromptReco-v3/V08-00-15/SingleElectron_MINIAOD_PromptReco-v3_000_284_041_00000_26FEF218-8E9F-E611-A728-02163E014632.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SingleElectron_MINIAOD_PromptReco-v3/V08-00-15/SingleElectron_MINIAOD_PromptReco-v3_000_284_044_00000_3227B3AE-BC9F-E611-89AD-02163E011DDE.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SingleElectron_MINIAOD_PromptReco-v3/V08-00-15/SingleElectron_MINIAOD_PromptReco-v3_000_284_038_00000_3227CD0E-BB9F-E611-BD45-02163E0119E0.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_MuonEG_MINIAOD_PromptReco-v3/V08-00-15/MuonEG_MINIAOD_PromptReco-v3_000_284_040_00000_108EBE06-839F-E611-AE64-FA163E8EBE8C.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SingleElectron_MINIAOD_PromptReco-v3/V08-00-15/SingleElectron_MINIAOD_PromptReco-v3_000_284_036_00000_30F67960-599F-E611-A699-FA163EB7F183.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SingleMuon_MINIAOD_PromptReco-v3/V08-00-15/SingleMuon_MINIAOD_PromptReco-v3_000_284_036_00000_902B66E8-5E9F-E611-8C93-FA163E9FBD4A.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SinglePhoton_MINIAOD_PromptReco-v3/V08-00-15/SinglePhoton_MINIAOD_PromptReco-v3_000_284_036_00000_726BEBFC-619F-E611-862A-02163E0121A2.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SinglePhoton_MINIAOD_PromptReco-v3/V08-00-15/SinglePhoton_MINIAOD_PromptReco-v3_000_284_037_00000_4481B3C9-D09F-E611-BF9D-02163E011DEE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SinglePhoton_MINIAOD_PromptReco-v3/V08-00-15/SinglePhoton_MINIAOD_PromptReco-v3_000_284_037_00000_908620EF-B09F-E611-BC13-02163E011FFE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_MuonEG_MINIAOD_PromptReco-v3/V08-00-15/MuonEG_MINIAOD_PromptReco-v3_000_284_041_00000_2E7857EE-7C9F-E611-804A-FA163E0EB6B0.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_SingleElectron_MINIAOD_PromptReco-v3/V08-00-15/SingleElectron_MINIAOD_PromptReco-v3_000_284_036_00000_409F4ABE-589F-E611-AE1A-02163E013992.root
