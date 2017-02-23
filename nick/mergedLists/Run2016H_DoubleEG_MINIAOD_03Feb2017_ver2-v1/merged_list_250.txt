@@ -1,0 +1,3 @@
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_DoubleEG_MINIAOD_03Feb2017_ver2-v1/V08-00-18/DoubleEG_MINIAOD_03Feb2017_ver2-v1_50000_2A92D8BB-94EB-E611-AFD6-0CC47A7EEC2A.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_DoubleEG_MINIAOD_03Feb2017_ver2-v1/V08-00-18/DoubleEG_MINIAOD_03Feb2017_ver2-v1_50000_2AA48B59-4BEB-E611-8DC8-002590DB040C.root
+/hadoop/cms/store/user/namin/dataTuple/Run2016H_DoubleEG_MINIAOD_03Feb2017_ver2-v1/V08-00-18/DoubleEG_MINIAOD_03Feb2017_ver2-v1_50000_2C155DEF-0CEB-E611-B5D1-0CC47A7E6A42.root
