@@ -1,0 +1,2 @@
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016C_SingleElectron_MINIAOD_03Feb2017-v1/V08-00-18/SingleElectron_MINIAOD_03Feb2017-v1_100000_D0C24F5F-99EB-E611-A056-02163E019BFE.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016C_SingleElectron_MINIAOD_03Feb2017-v1/V08-00-18/SingleElectron_MINIAOD_03Feb2017-v1_100000_D208B187-A9EB-E611-8A80-02163E01A6DB.root
