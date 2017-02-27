@@ -1,2 +1,3 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_MuonEG_MINIAOD_03Feb2017_ver3-v1/V08-00-18/MuonEG_MINIAOD_03Feb2017_ver3-v1_110000_BC140BB5-7CEB-E611-ABAB-0CC47A4C8E7E.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_MuonEG_MINIAOD_03Feb2017_ver3-v1/V08-00-18/MuonEG_MINIAOD_03Feb2017_ver3-v1_110000_FC66A9B6-7CEB-E611-8CEC-0CC47A745250.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016H_MuonEG_MINIAOD_03Feb2017_ver3-v1/V08-00-18/MuonEG_MINIAOD_03Feb2017_ver3-v1_110000_486AABAC-62EB-E611-8274-0CC47A4D7658.root
