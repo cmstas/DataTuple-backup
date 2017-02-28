@@ -152,3 +152,5 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_MuonEG_MINIAOD_03Feb2017_ver2-v2/V08-00-18/MuonEG_MINIAOD_03Feb2017_ver2-v2_100000_B8B261E6-AEEC-E611-AEF6-0090FAA57B10.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_03Feb2017_ver2-v2/V08-00-18/SingleElectron_MINIAOD_03Feb2017_ver2-v2_110000_123D354D-F1EA-E611-A906-002590491AE4.root
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_03Feb2017_ver2-v2/V08-00-18/SingleElectron_MINIAOD_03Feb2017_ver2-v2_110000_6E42D0E3-B3EA-E611-8D7B-002590E2DA08.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_03Feb2017_ver2-v2/V08-00-18/SingleElectron_MINIAOD_03Feb2017_ver2-v2_110000_7CFC3328-4DEB-E611-B7B1-0CC47A6C115C.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016B_SingleElectron_MINIAOD_03Feb2017_ver2-v2/V08-00-18/SingleElectron_MINIAOD_03Feb2017_ver2-v2_110000_80C224F2-EBEA-E611-B443-0CC47AD99052.root
