@@ -1,1 +1,2 @@
 /hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SinglePhoton_MINIAOD_03Feb2017-v1/V08-00-18/SinglePhoton_MINIAOD_03Feb2017-v1_80000_80E46D09-37EB-E611-ACC6-3417EBE7051F.root
+/hadoop/cms/store/user/mderdzinski/dataTuple/Run2016G_SinglePhoton_MINIAOD_03Feb2017-v1/V08-00-18/SinglePhoton_MINIAOD_03Feb2017-v1_50000_10C6573D-CFEB-E611-837F-0CC47A7FC6F8.root
